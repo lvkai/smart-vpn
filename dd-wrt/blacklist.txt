@@ -1,0 +1,47 @@
+# google
+google.com
+www.google.com
+accounts.google.com
+plus.google.com
+mail.google.com
+
+www.youtube.com
+accounts.youtube.com
+s.ytimg.com
+i1.ytimg.com
+www.blogger.com
+lvkai.blogspot.com
+
+# facebook
+facebook.com
+www.facebook.com
+developers.facebook.com
+
+fbcdn-sphotos-h-a.akamaihd.net
+fbstatic-a.akamaihd.net
+profile-a.xx.fbcdn.net
+profile-b.xx.fbcdn.net
+sphotos-a.xx.fbcdn.net
+sphotos-b.xx.fbcdn.net
+
+# twitter
+twitter.com
+www.twitter.com
+api.twitter.com
+t.co
+b-gat.es
+ow.ly
+
+# wiki
+www.wikipedia.org
+en.wikipedia.org
+zh.wikipedia.org
+
+# dropbox
+www.dropbox.com
+
+# others
+www.mitbbs.com
+www.ubuntugeek.com
+
+
